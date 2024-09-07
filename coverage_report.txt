@@ -1,0 +1,8 @@
+Name                     Stmts   Miss  Cover
+--------------------------------------------
+exporter.py                 13      0   100%
+scraper.py                 123     30    76%
+tests/test_exporter.py      25      1    96%
+tests/test_scraper.py       39      1    97%
+--------------------------------------------
+TOTAL                      200     32    84%
